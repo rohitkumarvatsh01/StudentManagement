@@ -79,8 +79,6 @@ public class StudentController {
 	@DeleteMapping("/students")
 	public String deleteAllRecords() {
 		studentRepository.deleteAll();
-		return "Delete ho gya hai chacha";
+		return "All Record are deleted Successfull";
 	}
-	
-	
 }
