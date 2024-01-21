@@ -1,15 +1,10 @@
 # Student Management System with CRUD Operations using Spring Boot
-<br>
 This project showcases the implementation of a Student Management System using Spring Boot, providing CRUD (Create, Read, Update, Delete) operations to efficiently manage student records.
-<br>
-<br>
-<b>Overview</b>
-<br>
-The StudentController class handles HTTP requests and interfaces with the database through the StudentRepository. 
-<br>
-<br>
-<b>Key functionalities include:</b>
 
+# Overview
+The StudentController class handles HTTP requests and interfaces with the database through the StudentRepository. 
+
+# Key functionalities include:
 <li><b>Create Record:</b> Add a new student record to the database.</li>
 <li><b>Get All Records:</b> Retrieve all student records from the database.</li>
 <li><b>Get One Record:</b> Retrieve a specific student record by providing the student roll number.</li>
