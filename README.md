@@ -6,7 +6,9 @@ This project showcases the implementation of a Student Management System using S
 <br>
 The StudentController class handles HTTP requests and interfaces with the database through the StudentRepository. 
 <br>
-# Key functionalities include:
+<br>
+<b>Key functionalities include:</b>
+<br>
 <li><b>Create Record:</b> Add a new student record to the database.</li>
 <li><b>Get All Records:</b> Retrieve all student records from the database.</li>
 <li><b>Get One Record:</b> Retrieve a specific student record by providing the student roll number.</li>
@@ -20,7 +22,5 @@ The StudentController class handles HTTP requests and interfaces with the databa
 The project follows a Spring Boot architecture, organized into a RESTful API with the StudentController managing CRUD operations. The underlying data is stored and retrieved using the StudentRepository.
 
 # Contributing
+<br>
 Contributions are welcome! Feel free to submit pull requests or raise issues following the guidelines outlined in the CONTRIBUTING.md file.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
