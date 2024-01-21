@@ -18,9 +18,7 @@ The StudentController class handles HTTP requests and interfaces with the databa
 <br>
 
 # Project Structure
-<br>
 The project follows a Spring Boot architecture, organized into a RESTful API with the StudentController managing CRUD operations. The underlying data is stored and retrieved using the StudentRepository.
 
 # Contributing
-<br>
 Contributions are welcome! Feel free to submit pull requests or raise issues following the guidelines outlined in the CONTRIBUTING.md file.
