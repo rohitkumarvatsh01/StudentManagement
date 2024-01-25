@@ -11,7 +11,7 @@ The StudentController class handles HTTP requests and interfaces with the databa
 <li><b>Update Record:</b> Update an existing student record in the database.</li>
 <li><b>Delete One Record:</b> Delete a specific student record by providing the student roll number.</li>
 <li><b>Delete All Records:</b> Delete all student records from the database.</li>
-
+ 
 # Project Structure
 The project follows a Spring Boot architecture, organized into a RESTful API with the StudentController managing CRUD operations. The underlying data is stored and retrieved using the StudentRepository.
 
